@@ -29,14 +29,14 @@ JSX 其实就是 JavaScript 对象,编译之后就是将类似HTML结构的JSX,�
 
 
 >2.JSX的嵌套
->```
+```
 const element = (
   <div>
     <h1>Hello!</h1>
     <h2>Good to see you here.</h2>
   </div>
 );
->```
+```
 3.JSX React元素属性
 `React DOM 首先会比较元素内容先后的不同，而在渲染过程中只会更新改变了的部分。`
 - 普通属性
