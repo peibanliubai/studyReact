@@ -45,6 +45,7 @@ const element = (
 -  React元素有一个非常重要的属性 children
 元素事实上只是构成组件的一个部分
 `元素具有不变性，一旦创建就不能修改`
+
 4.ReactDOM渲染过程
  - ReactDOM渲染过程
  - 把JSX元素转成React.createElement方法的调用
